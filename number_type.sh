@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Please input your preferred number? "
+echo "Please input your preferred number.? "
 read number
 
 if (( $number % 2 == 0 ))
